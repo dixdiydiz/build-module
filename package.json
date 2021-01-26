@@ -4,6 +4,11 @@
   "description": "require module from string",
   "author": "dry",
   "license": "MIT",
+  "keywords": [
+    "require",
+    "string",
+    "module"
+  ],
   "scripts": {
     "dev": "tsc -w -incremental",
     "version": "conventional-changelog -p angular -i CHANGELOG.md -s && git add CHANGELOG.md",
