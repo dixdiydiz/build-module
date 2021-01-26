@@ -1,6 +1,6 @@
 {
   "name": "build-module",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "require module from string",
   "author": "dry",
   "license": "MIT",

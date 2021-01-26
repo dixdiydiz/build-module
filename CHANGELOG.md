@@ -1,3 +1,5 @@
+## [1.0.7](https://github.com/dixdiydiz/require-module-from-string/compare/v1.0.6...v1.0.7) (2021-01-26)
+
 ## [1.0.6](https://github.com/dixdiydiz/build-module/compare/v1.0.5...v1.0.6) (2021-01-26)
 
 ## [1.0.5](https://github.com/dixdiydiz/build-module/compare/v1.0.4...v1.0.5) (2021-01-26)
