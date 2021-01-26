@@ -36,6 +36,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: MorsiC/changelog-release-by-branch@v4.5
+      - uses: lsegal/github-release-from-changelog-action@latest
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
