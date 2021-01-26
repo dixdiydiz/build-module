@@ -9,10 +9,10 @@ describe('require from string', () => {
   })
 })
 describe('require from file', () => {
-  it('module.exports', () => {
-    expect(buildModule('module.exports = 3')).toBe(3)
+  it('require from .js file', () => {
+    expect(buildModule('', './unknow.js')).toThrow()
   })
-  it('exports', () => {
-    expect(buildModule('exports.a = 3')).toEqual({ a: 3 })
+  it('require from .ts file', () => {
+    expect(buildModule('module.exports = "a"', './unknow.ts')).toEqual('a')
   })
 })
