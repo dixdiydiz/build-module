@@ -1,3 +1,9 @@
+## [1.0.11](https://github.com/dixdiydiz/require-module-from-string/compare/v1.0.10...v1.0.11) (2021-01-26)
+
+### Features
+
+- github workflows ([3b357f5](https://github.com/dixdiydiz/require-module-from-string/commit/3b357f5b25300a0ae4aaa6848096dd826c49cce8))
+
 ## [1.0.10](https://github.com/dixdiydiz/require-module-from-string/compare/v1.0.9...v1.0.10) (2021-01-26)
 
 ### Features
