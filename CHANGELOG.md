@@ -1,3 +1,9 @@
+## [1.0.5](https://github.com/dixdiydiz/build-module/compare/v1.0.4...v1.0.5) (2021-01-26)
+
+### Features
+
+- github workflows ([c1908f5](https://github.com/dixdiydiz/build-module/commit/c1908f514ce233b0d5b1349157bfc08f14d2763d))
+
 ## [1.0.4](https://github.com/dixdiydiz/build-module/compare/v1.0.3...v1.0.4) (2021-01-26)
 
 ### Features
