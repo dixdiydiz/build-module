@@ -1,3 +1,9 @@
+## [1.0.2](https://github.com/dixdiydiz/build-module/compare/v1.0.1...v1.0.2) (2021-01-26)
+
+### Features
+
+- add keys ([41bcff2](https://github.com/dixdiydiz/build-module/commit/41bcff2dec8d2388b021646b7b7832a83d253b9d))
+
 ## 1.0.1 (2021-01-26)
 
 ### Features
