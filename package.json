@@ -3,10 +3,10 @@
   "description": "require module from string",
   "author": "dry",
   "license": "MIT",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/dixdiydiz/require-module-from-string.git"
+    "type": "git",
+    "url": "https://github.com/dixdiydiz/require-module-from-string.git"
   },
   "keywords": [
     "require",
