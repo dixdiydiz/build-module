@@ -40,6 +40,7 @@ jobs:
         with:
           node-version: 12
           registry-url: https://registry.npmjs.org/
-      - run: npx github-release-from-changelog
+      - run: npm install -g github-release-from-changelog
+      - run: github-release-from-changelog
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
