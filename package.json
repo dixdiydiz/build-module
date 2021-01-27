@@ -1,6 +1,6 @@
 {
   "name": "require-module-from-string",
-  "version": "1.0.11",
+  "version": "1.0.1",
   "description": "require module from string",
   "author": "dry",
   "license": "MIT",
