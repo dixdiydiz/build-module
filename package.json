@@ -3,7 +3,7 @@
   "description": "require module from string",
   "author": "dry",
   "license": "MIT",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "repository": {
     "type": "git",
     "url": "https://github.com/dixdiydiz/require-module-from-string.git"
@@ -19,6 +19,7 @@
     "postversion": "git push --follow-tags"
   },
   "main": "dist/index.js",
+  "types": "types/index.d.ts",
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
     "@commitlint/config-conventional": "^11.0.0",
