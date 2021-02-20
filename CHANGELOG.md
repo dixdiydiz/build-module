@@ -1,3 +1,9 @@
+## [1.0.19](https://github.com/dixdiydiz/require-module-from-string/compare/v1.0.18...v1.0.19) (2021-02-20)
+
+### Features
+
+- perfect .d.ts ([545898b](https://github.com/dixdiydiz/require-module-from-string/commit/545898b1c72d9eb7892f13420c587dcf92906414))
+
 ## [1.0.18](https://github.com/dixdiydiz/require-module-from-string/compare/v1.0.17...v1.0.18) (2021-02-20)
 
 ## [1.0.17](https://github.com/dixdiydiz/require-module-from-string/compare/v1.0.16...v1.0.17) (2021-01-27)
