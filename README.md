@@ -4,8 +4,8 @@ require module from string
 
 ## Install
 
-$ npm install --save-dev build-module  
-$ yarn add -D build-module
+$ npm install --save-dev require-module-from-string
+$ yarn add -D require-module-from-string
 
 ## Usage
 
