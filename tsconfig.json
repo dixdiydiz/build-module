@@ -8,7 +8,9 @@
     "esModuleInterop": true,
     "preserveConstEnums": true,
     "sourceMap": true,
-    "outDir": "dist"
+    "outDir": "dist",
+    "declaration": true,
+    "declarationDir": "types"
   },
   "include": ["src/**/*"],
   "exclude": ["node_modules", "**/*.spec.ts"]
